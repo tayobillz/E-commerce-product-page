@@ -14,7 +14,9 @@ Users should be able to:
 
 ## Preview
 
-![Project preview](active-states-basket-empty.jpg)
+![Project preview](https://github.com/tayobillz/E-commerce-product-page/blob/main/my%20screenshot2.png)
+![Project preview](https://github.com/tayobillz/E-commerce-product-page/blob/main/my%20screenshot.png)
+
 
 
 
