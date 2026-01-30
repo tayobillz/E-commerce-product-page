@@ -1,11 +1,20 @@
-# E-commerce Product Page
+## Overview
 
-This is a Frontend Mentor E-commerce product page built using HTML, CSS, and vanilla JavaScript.  
-The project focuses on UI interaction, cart logic, and a checkout popup modal.
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
+
 
 ## Preview
 
-![Project preview](images/preview.png)
+![Project preview](active-states-basket-empty.jpg)
 
 
 
